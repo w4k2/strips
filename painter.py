@@ -6,8 +6,8 @@ from sklearn.cluster import KMeans
 from sklearn.utils import resample
 
 n_clusters = 16
-depth = 8
-slomo = 8
+depth = 4
+slomo = 16
 
 for movie in movies:
     print(movie)
@@ -76,7 +76,7 @@ for movie in movies:
             #print(f_output)
 
             painting.append(f_output)
-            print(f_output.shape)
+            #print(f_output.shape)
 
             # Flush the past
             buffer = []

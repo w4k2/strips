@@ -12,5 +12,8 @@ movies = [
     'kurosawa',
     'popiol-i-diament',
     'smolensk',
-    'top-goals'
+    'top-goals',
+    'first-fom-break',
+    'notopology',
+    'decision'
 ]
