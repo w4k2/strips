@@ -2,4 +2,4 @@
 
 Generator pasków z mp4.
 
-![](foo.png)
+![](bar.png)
